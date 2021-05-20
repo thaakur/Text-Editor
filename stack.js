@@ -3,7 +3,7 @@ export { Stack }
 class Stack {
     constructor() {
         this.size = 0;
-        this.buffer = 4;
+        this.buffer = 2;
         this.stack = [];
     }
 
